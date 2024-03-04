@@ -1,4 +1,5 @@
 false
 ls
- ls -l
- yum list
+ls -ls
+ls -l
+yum list
