@@ -1,4 +1,5 @@
-sdfsd
-sdgs
-sg
-sdgssdg
+echo -e "\e[31m heloo in red \e[0m"
+echo -e "\e[32m heloo in red \e[0m"
+echo -e "\e[33m heloo in red \e[0m"
+echo -e "\e[34m heloo in red \e[0m"
+echo -e "\e[35m heloo in red \e[0m"
