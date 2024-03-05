@@ -2,8 +2,10 @@
 a=10
 
 
-#variable with spl character data( space is a special character )then ned to be written in double quote
+#variable with spl character data( space is a special character )then need to be written in double quote
 
-b="p@ss"
-echo &a
-
+b="hello world"
+c=20
+echo $a
+echo $b
+echo $c
