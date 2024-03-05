@@ -5,5 +5,5 @@
 #variable with spl character data( space is a special character )then ned to be written in double quote
 
 b="p@ss"
-echo &1
+echo &a
 
